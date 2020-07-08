@@ -1,2 +1,3 @@
 Github pages
 https://yonghokim-digipen.github.io/Final-projct/
+If the main menu song doesn't play, please refresh it several times.
