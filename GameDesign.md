@@ -9,5 +9,8 @@ GameDesign
 ![Mechanic](https://user-images.githubusercontent.com/65119324/86884489-9757ee00-c12e-11ea-8477-9d896f830205.png)
 ## SceneDesign
 ![Play](https://user-images.githubusercontent.com/65119324/86884549-ae96db80-c12e-11ea-9768-ffed9e445e6d.png)
+- - -
 ![Option](https://user-images.githubusercontent.com/65119324/86884553-afc80880-c12e-11ea-984d-8e6492b569c5.png)
+- - -
 ![Howto](https://user-images.githubusercontent.com/65119324/86884556-b191cc00-c12e-11ea-9c1a-079bd9b60ac5.png)
+- - -
