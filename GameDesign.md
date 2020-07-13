@@ -7,7 +7,7 @@ GameDesign
 ![Scenario](https://user-images.githubusercontent.com/65119324/86884317-5d86e780-c12e-11ea-91b1-1b294b8cf15f.png)
 ## Mechanic
 ![Mechanic](https://user-images.githubusercontent.com/65119324/86884489-9757ee00-c12e-11ea-8477-9d896f830205.png)
-## SceneDesign
+## Rough draw
 ![Play](https://user-images.githubusercontent.com/65119324/86884549-ae96db80-c12e-11ea-9768-ffed9e445e6d.png)
 - - -
 ![Option](https://user-images.githubusercontent.com/65119324/86884553-afc80880-c12e-11ea-984d-8e6492b569c5.png)
